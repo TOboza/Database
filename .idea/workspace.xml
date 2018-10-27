@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="908f8313-096b-453f-b11a-ca6f48fea7f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BibliotekiNaCzasie/src/main/java/PalindromyJasia/Palindromy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BibliotekiNaCzasie/src/main/java/ProjectLombok/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BibliotekiNaCzasie/src/main/java/ProjectLombok/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BibliotekiNaCzasie/src/main/java/Threads/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BibliotekiNaCzasie/src/main/java/Threads/TwoThreadsOnTheSameVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BibliotekiNaCzasie/src/main/java/Zadanie/zadTydzien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BibliotekiNaCzasie/src/test/java/PalindromyJasia/PalindromyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/ConfigHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/ImageGIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/ImageJPEG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/ImageReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Adapter/CardAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Adapter/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Adapter/PaybackCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Factory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Factory/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Factory/Pasta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Factory/PastaProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Factory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Factory/PizzaProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Factory/SicilianFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Factory/TorinoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Observer/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Observer/OnClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Prototype/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Prototype/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Strategy/CountryCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Strategy/PLTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Strategy/TaxManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Strategy/TaxStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/Patterns/Strategy/USATax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/main/java/com/tomaszoboza/configFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency/src/test/java/com/tomaszoboza/MoneyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CuttingStock/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CuttingStock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CuttingStock/src/main/java/com/toboza/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CuttingStock/src/main/java/com/toboza/Section.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jednostkowe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jednostkowe/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jednostkowe/src/main/java/TDD/Asortment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jednostkowe/src/main/java/TDD/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jednostkowe/src/main/java/TDD/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jednostkowe/src/main/java/TDD/ProductList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jednostkowe/src/main/java/TDD/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jednostkowe/src/test/java/TDD/Adnotacje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jednostkowe/src/test/java/TDD/HelloWorldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jednostkowe/src/test/java/TDD/ProductList_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meteo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meteo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meteo/src/main/java/com/toboza/Meteo/ConfigClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meteo/src/main/java/com/toboza/Meteo/HTMLReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meteo/src/main/java/com/toboza/Meteo/Meteo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meteo/src/main/java/com/toboza/Meteo/StationAnswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meteo/src/test/java/com/toboza/Meteo/HTMLReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meteo/src/test/java/com/toboza/Meteo/MeteoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testowy/.idea/libraries/log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testowy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testowy/Resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testowy/src/com/toboza/Examples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testowy/src/com/toboza/Zad_2_files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania_August/src/com/toboza/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productscore/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productscore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productscore/src/main/java/com/tomaszoboza/product/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productscore/src/main/java/com/tomaszoboza/product/ProductScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productscore/src/main/java/com/tomaszoboza/product/Zegar/Zegar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productscore/src/test/java/com/tomaszoboza/product/ProductScoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productscore/src/test/java/com/tomaszoboza/product/Zegar/ZegarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlexample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlexample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlexample/src/main/java/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlexample/src/main/java/DataBase/Baza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlexample/src/main/java/DataBase/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlexample/src/main/java/DataBase/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlexample/src/main/java/DataBase/PeselValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlexample/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlexample/src/main/java/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlexample/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../excercise1/src/com/toboza/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../excercise1/src/com/toboza/Zad_stos_kolejka.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="public_db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="322983925">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="433" />
+          <entry key="txt" value="13" />
+          <entry key="xml" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="433" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="XML" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="426" />
+    <option name="y" value="47" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="programowaniebazydanych" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programowaniebazydanych" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programowaniebazydanych" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programowaniebazydanych" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programowaniebazydanych" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programowaniebazydanych" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programowaniebazydanych" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programowaniebazydanych" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540630301707" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="programowaniebazydanych" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="908f8313-096b-453f-b11a-ca6f48fea7f6" name="Default Changelist" comment="" />
+      <created>1540625187297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540625187297</updated>
+      <workItem from="1540625188609" duration="4771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4771000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32925472" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
